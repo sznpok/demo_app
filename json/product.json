@@ -1,0 +1,191 @@
+[
+    {
+        "name": "Whisky",
+        "subMenu": [
+            {
+                "name": "Domestic Whisky",
+                "image": "images/w2.jpg"
+            },
+            {
+                "name": "Malt Whisky",
+                "image": "images/w3.jpg"
+            },
+            {
+                "name": "Regular Whisky",
+                "image": "images/w4.jpg"
+            },
+            {
+                "name": "Premium Whisky",
+                "image": "images/w5.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Vodka",
+        "subMenu": [
+            {
+                "name": "Domestic Vodka",
+                "image": "images/w6.jpg"
+            },
+            {
+                "name": "Regular Vodka",
+                "image": "images/w4.jpg"
+            },
+            {
+                "name": "Premium Vodka",
+                "image": "images/w7.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Gin",
+        "subMenu": [
+            {
+                "name": "Domestic Gin",
+                "image": "images/w9.jpg"
+            },
+            {
+                "name": "Imported Gin",
+                "image": "images/w8.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Rum",
+        "subMenu": [
+            {
+                "name": "Domestic Rum",
+                "image": "images/w9.jpg"
+            },
+            {
+                "name": "Imported Rum",
+                "image": "images/w3.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Brandy",
+        "subMenu": [
+            {
+                "name": "Vs Cognac",
+                "image": "images/w6.jpg"
+            },
+            {
+                "name": "VSOP Cognac",
+                "image": "images/w5.jpg"
+            },
+            {
+                "name": "Napoleon Cognac",
+                "image": "images/w4.jpg"
+            },
+            {
+                "name": "XO cognac",
+                "image": "images/w3.jpg"
+            },
+            {
+                "name": "Regular Brandy",
+                "image": "images/w2.jpg"
+            },
+            {
+                "name": "Domestic Brandy",
+                "image": "images/w4.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Wine",
+        "subMenu": [
+            {
+                "name": "Red Wine",
+                "image": "images/w6.jpg"
+            },
+            {
+                "name": "White Wine",
+                "image": "images/w5.jpg"
+            },
+            {
+                "name": "Sparkling Wine",
+                "image": "images/w3.jpg"
+            },
+            {
+                "name": "Rose Wine",
+                "image": "images/w3.jpg"
+            },
+            {
+                "name": "Prosecco",
+                "image": "images/w6.jpg"
+            },
+            {
+                "name": "Champagne",
+                "image": "images/w9.jpg"
+            },
+            {
+                "name": "Flavoured Wine",
+                "image": "images/w8.jpg"
+            },
+            {
+                "name": "Domestic Wine",
+                "image": "images/w4.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Beer",
+        "subMenu": [
+            {
+                "name": "Domestic Beer",
+                "image": "images/w4.jpg"
+            },
+            {
+                "name": "Imported Beer",
+                "image": "images/w2.jpg"
+            },
+            {
+                "name": "Beer Case",
+                "image": "images/w8.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Japanese Liquor",
+        "subMenu": [
+            {
+                "name": "Sake",
+                "image": "images/w4.jpg"
+            },
+            {
+                "name": "Shochu",
+                "image": "images/w5.jpg"
+            },
+            {
+                "name": "Umeshu",
+                "image": "images/w3.jpg"
+            },
+            {
+                "name": "Wines",
+                "image": "images/w2.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Mixer",
+        "subMenu": [
+            {
+                "name": "Syrup",
+                "image": "images/w2.jpg"
+            },
+            {
+                "name": "Ico Cube",
+                "image": "images/w6.jpg"
+            },
+            {
+                "name": "Honey",
+                "image": "images/w9.jpg"
+            },
+            {
+                "name": "Suppements",
+                "image": "images/w8.jpg"
+            }
+        ]
+    }
+]
